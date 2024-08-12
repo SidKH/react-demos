@@ -1,9 +1,4 @@
-body {
-  background: #000;
-}
-
 #root {
   width: 100vw;
-  height: 60vh !important;
-  margin-bottom: auto;
+  height: 100vh;
 }
